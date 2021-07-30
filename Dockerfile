@@ -14,9 +14,11 @@ RUN set -ex; \
         expect \
         sudo \
         vim \
+        blender \
 	vlc \
         bash \
         net-tools \
+        unity \
         novnc \
         xfce4 \
 	socat \
